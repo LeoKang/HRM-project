@@ -11,7 +11,7 @@ package main;
 public class MainEx {
 
 	public static void main(String[] args) {
-		
+		// S. kang
 		new MainFrame();
 	}
 	
